@@ -20,5 +20,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LEXXSAS&style=flat-square&color=blue" alt="counter views"/>
 </div>
+
 ### :woman_technologist: About Me :
 
