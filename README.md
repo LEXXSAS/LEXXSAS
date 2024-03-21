@@ -21,5 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=LEXXSAS&style=flat-square&color=blue" alt="counter views"/>
 </div>
 
-### :man_technologist: About Me :
+### :woman_technologist: About Me :
+> I am a Frontend Developer
 
+- :telescope: I work as a technical support specialist. I'm studying web development. I am interested in modern technologies and achievements.
