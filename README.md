@@ -22,7 +22,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-> I am a Frontend Developer
+> Hello. I'm a Frontend Developer
 
 - 💬 I work as a technical support specialist
 - :telescope: I'm studying web development, write websites, scripts
