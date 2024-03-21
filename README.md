@@ -24,6 +24,5 @@
 ### :woman_technologist: About Me :
 > I am a Frontend Developer
 
-- :telescope: I work as a technical support specialist.
-- :telescope: I'm studying web development. 
-- :telescope: I am interested in modern technologies and achievements.
+- 💬 I work as a technical support specialist
+- :telescope: I'm studying web development. I write websites. I am interested in modern technologies
