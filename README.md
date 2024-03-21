@@ -26,3 +26,7 @@
 - 💬 I work as a technical support specialist
 - :telescope: I'm studying web development, write websites, scripts
 - :telescope: Interested in modern technologies
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
