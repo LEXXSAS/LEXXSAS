@@ -6,3 +6,8 @@
 <div id="header" align="center">
   <img src="images/animated2.gif" width="250"/>
 </div>
+<div id="badges">
+  <a href="https://t.me/Alexey_Lexxs">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+</div>
