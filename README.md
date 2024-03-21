@@ -17,3 +17,4 @@
     <img src="https://img.shields.io/badge/Whatsapp-green?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=LEXXSAS&style=flat-square&color=blue" alt=""/>
