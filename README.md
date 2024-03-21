@@ -25,5 +25,5 @@
 > I am a Frontend Developer
 
 - 💬 I work as a technical support specialist
-- :telescope: I'm studying web development, write websites, scripts and
-- :telescope: interested in modern technologies
+- :telescope: I'm studying web development, write websites, scripts
+- :telescope: Interested in modern technologies
