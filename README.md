@@ -7,10 +7,11 @@
   <img src="images/animated2.gif" width="250"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/Alexey_Lexxs">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
   <a href="https://vk.com/lexxs15">
-    <img src="https://img.shields.io/badge/Vk-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Vkontakte Badge"/>
+    <img src="https://img.shields.io/badge/Vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://wa.me/79295094907?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!
+<div id="badges">">
+    <img src="https://img.shields.io/badge/Whatsapp-green?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp Badge"/>
   </a>
 </div>
